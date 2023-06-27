@@ -54,7 +54,7 @@ PaeParo는 여행 일정을 더 쉽고, 편리하게 구성할 수 있도록 도
 <tbody>
     <tr>
         <td width="100" align="center">서윤오<br>(팀장)</td>
-        <td width="200">Frontend, Backend<br>사전자료 조사, Figma를 이용한 프로로타입 구현, 여행 일정 관리 화면 구현, Kakao Map API를 이용한 장소검색 기능 구현, Naver Map SDK를 이용한 지도 표시 기능 구현</td>
+        <td width="200">Frontend, Backend<br>여행 일정 관리 화면 구현<br>Kakao Map API를 이용한 장소검색 기능 구현<br>Naver Map SDK를 이용한 지도 표시 기능 구현</td>
         <td width="100" align="center">
           <a href="https://github.com/seo0jjjjj">
             <img src="http://img.shields.io/badge/seo0jjjjj-655ced?style=social&logo=github"/>
@@ -66,7 +66,7 @@ PaeParo는 여행 일정을 더 쉽고, 편리하게 구성할 수 있도록 도
     </tr>
     <tr>
         <td width="100" align="center">손영진</td>
-        <td width="200">Frontend, Backend<br>스플래쉬, 로그인, 여행목록, 커뮤니티 화면 구현, 여행 초대 및 거절 기능 구현, Firebase Authentication, Cloud Firestore, Storage, Functions 서비스 구현</td>
+        <td width="200">Frontend, Backend<br>스플래쉬, 로그인, 여행목록, 커뮤니티 화면 구현<br>여행 초대 및 거절 기능 구현<br> Firebase Authentication, Cloud Firestore, Storage, Functions Backend 서비스 구현</td>
         <td width="100" align="center">
           <a href="https://github.com/ILoveGameCoding">
             <img src="http://img.shields.io/badge/ILoveGameCoding-655ced?style=social&logo=github"/>
@@ -78,7 +78,7 @@ PaeParo는 여행 일정을 더 쉽고, 편리하게 구성할 수 있도록 도
     </tr>
     <tr>
         <td width="100" align="center">손형식</td>
-        <td width="200">Frontend<br>PaeParo 앱 설정화면 구현, 마이페이지(게시물, 댓글 등) 화면 구현, 여행 게시글 작성 화면 구현</td>
+        <td width="200">Frontend<br>PaeParo 앱 설정화면 구현<br>마이페이지(게시물, 댓글 등) 화면 구현<br>여행 게시글 작성 화면 구현</td>
         <td width="100" align="center">
           <a href="https://github.com/Blenbre777">
             <img src="http://img.shields.io/badge/Blenbre777-655ced?style=social&logo=github"/>
@@ -90,7 +90,7 @@ PaeParo는 여행 일정을 더 쉽고, 편리하게 구성할 수 있도록 도
     </tr>
     <tr>
         <td width="100" align="center">석민재</td>
-        <td width="200">Frontend, Backend<br>PaeParo 회원가입(닉네임 및 사용자 세부정보) 화면 구현, Naver Map API를 이용한 지역 위경도 불러오기 기능 구현</td>
+        <td width="200">Frontend, Backend<br>PaeParo 회원가입(닉네임 및 사용자 세부정보) 화면 구현<br>Naver Map API를 이용한 지역 위경도 불러오기 기능 구현</td>
         <td width="100" align="center">
           <a href="https://github.com/tjralswo123">
             <img src="http://img.shields.io/badge/tjralswo123-655ced?style=social&logo=github"/>
